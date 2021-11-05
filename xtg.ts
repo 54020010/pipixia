@@ -1,3 +1,4 @@
+const $ = new Env('星推官');
 import axios from 'axios';
 import USER_AGENT, {requireConfig, wait, requestAlgo} from './TS_USER_AGENTS';
 
